@@ -1,0 +1,9 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.error {
+    height: 500px;
+    margin-top: 60px;
+}

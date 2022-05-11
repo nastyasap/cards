@@ -1,0 +1,19 @@
+.select {
+    width: 100px;
+    padding: 6px;
+    margin: 8px 0;
+    background-color: lightskyblue;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.option {
+    color: #59035b;
+    background-color: aqua;
+}
+
+.option:checked {
+    background-color: #e6a7e7;
+    color: #59035b;
+    font-weight: bold;
+}
